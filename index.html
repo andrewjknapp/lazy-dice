@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <link rel="stylesheet" href="style.css">
+    <title>Lazy Dice</title>
+  </head>
+  <body>
+    <article id="dice-window">
+      <div id="output">
+          <div id="dice-display">20</div>
+      </div>
+      <div id="dice">
+          <button dice="20">20</button>
+          <button dice="12">12</button>
+          <button dice="10">10</button>
+          <button dice="8">8</button>
+          <button dice="6">6</button>
+          <button dice="4">4</button>
+      </div>
+  </article>
+
+  <!-- You can also require other files to run in this process -->
+  <script src="./renderer.js"></script>
+  <script src="script.js"></script>
+  </body>
+</html>
