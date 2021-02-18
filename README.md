@@ -75,7 +75,7 @@ Or if you have another gif with a similar aesthetic with a known attribution I w
 <img src="./assets/additive-roll.png" alt="Additive Roll Mode" width="400">
 <br>
 
-## <span><img src="https://avatars.githubusercontent.com/u/16299570?v=4" style="height:50px; width:50px; border-radius:50%"></span> Contact 
+## Contact 
 If you have any questions about this project or would like to give suggestions I would be happy to hear them!
 <br>
 You can contact me at <a href="mailto:ajknapp2015@gmail.com">ajknapp2015@gmail.com</a>
