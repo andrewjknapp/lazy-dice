@@ -6,8 +6,9 @@ Lazy dice is an always on top application to simulate dice rolls for four-sided 
 ## Modes
 
 **Single Roll**
-<p>When the Roll Results are in the yellow circle this is the Single Roll mode. <br>
-In this mode when you click on any one of the dice options a random number between 1 and the choice you picked will be displayed to the screen. The next roll will replace the previous roll</p>
+<br>
+When the Roll Results are in the yellow circle this is the Single Roll mode. <br>
+In this mode when you click on any one of the dice options a random number between 1 and the choice you picked will be displayed to the screen. The next roll will replace the previous roll
 
 **Additive Rolls**
 <br>
