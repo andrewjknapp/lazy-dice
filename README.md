@@ -16,7 +16,8 @@ When the Roll Results are in the blue circle this is the Additive Roll mode.
 In this mode when you click on any one of the dice options a random number between 1 and the choice you picked will be added to the current result displayed to the screen. This is great for calculating the damage for those higher level attacks.
 
 ## How to Install
-Two options
+### Step 1
+Get the files, two options
 ### Option 1
 **Download Compiled App**
 
@@ -29,7 +30,7 @@ Download the approptiate version for your OS
 |---------|-------------------|
 | Windows | win32             |
 | Mac     | darwin            |
-| Linux   | TBD               |
+| Linux   | Linux             |
 
 <br>
 <br>
@@ -58,6 +59,18 @@ You can also run it at this point without compiling the app by running
 ```
 npm start
 ```
+
+### Step 2
+Run the App
+
+1. Extract files
+2. Run Application
+    - Windows - Double click 'Lazy Dice.exe'
+    - Mac - Double click 'Lazy Dice.app'
+    - Linux - open folder in terminal and type
+    ```
+    ./"Lazy Dice"
+    ```
 
 ## Attribution
 I am working on tracking down the original source for the background image. 
